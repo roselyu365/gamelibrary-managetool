@@ -1,15 +1,16 @@
 # 🎮 Gaming Area Catalog & Booking System
 
-A comprehensive web application for managing a gaming library with 2,000+ games across multiple platforms (PS5, PS4, PS3, Xbox, Nintendo Switch), featuring game rentals and gaming area bookings.
+A comprehensive web application for managing a gaming library with 2,000+ games across multiple platforms (PS5, PS4, Xbox, Nintendo Switch), featuring game rentals and gaming area bookings.
 
 ## Features
 
 ### For Users (Students)
-- **🔍 Game Search**: Search through the entire game catalog by title, platform, genre
-- **📚 Availability Display**: See real-time availability of all games
-- **🎮 Game Rentals**: Rent games for customizable durations (3, 7, or 14 days)
-- **📅 Gaming Area Bookings**: Book the gaming area with time-slot selection
-- **⏰ Booking Limits**: Configurable time limits (max 4 hours per day, 7 days in advance)
+- **🔍 Asset Search**: Advanced browsing with "Era" and "Genres" atomic filters, fuzzy search (English/Chinese) and autocomplete.
+- **📚 Availability Display**: See real-time availability of all games and assets.
+- **🎮 Game Rentals**: Rent games for customizable durations.
+- **📅 Gaming Area Bookings**: Book the gaming area with time-slot selection (max 4h/week, available 8am-11pm).
+- **🌏 Bilingual Support**: Full support for English and Chinese game titles.
+- **🏷️ Intelligent Tagging**: Automated tag cleaning (e.g., "Action-Adventure" -> "Action" + "Adventure") and compound tag handling (e.g., "Sci-Fi", "Co-Op").
 
 ### For Administrators
 - **📦 Inventory Management**: Add, edit, delete games with full details
@@ -23,7 +24,7 @@ A comprehensive web application for managing a gaming library with 2,000+ games 
 ### Backend
 - **Flask** (Python) - RESTful API
 - **SQLAlchemy** - Database ORM
-- **SQLite** - Database (easily upgradable to PostgreSQL)
+- **SQLite** - Database
 - **Flask-CORS** - Cross-origin resource sharing
 
 ### Frontend
@@ -35,7 +36,7 @@ A comprehensive web application for managing a gaming library with 2,000+ games 
 ## Installation
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.12+
 - Node.js 16+
 - npm or yarn
 
@@ -48,8 +49,8 @@ cd gaming-area
 
 2. Create a virtual environment:
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+python3 -m venv ven
+source ven/bin/activate  # On Windows: ven\Scripts\activate
 ```
 
 3. Install dependencies:
@@ -64,7 +65,7 @@ python app.py
 
 The database will be automatically created with default platforms (PS5, PS4, PS3, Xbox, Nintendo Switch).
 
-The backend will run on `http://localhost:5000`
+The backend will run on `http://localhost:8000`
 
 ### Frontend Setup
 
@@ -83,7 +84,7 @@ npm install
 npm run dev
 ```
 
-The frontend will run on `http://localhost:3000`
+The frontend will run on `http://localhost:3000` (or similar available port)
 
 ## Usage
 
@@ -92,7 +93,7 @@ The frontend will run on `http://localhost:3000`
 **Terminal 1 - Backend:**
 ```bash
 cd gaming-area
-source venv/bin/activate
+source ven/bin/activate
 python app.py
 ```
 

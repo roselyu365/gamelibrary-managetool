@@ -1,0 +1,2686 @@
+[
+  {
+    "name_en": "Duplex",
+    "name_cn": "双重公寓",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A romantic comedy about a young couple in a New York apartment and their amusing encounters with the landlord's mother.",
+    "publisher": "Warner Bros. Pictures",
+    "release_year": 2003,
+    "tags": [
+      "Comedy",
+      "Romance",
+      "Urban",
+      "Family"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3045.JPG"
+  },
+  {
+    "name_en": "Sorcerers Hunters",
+    "name_cn": "猎人与法师",
+    "category": "movie",
+    "platform": "Blu-ray",
+    "synopsis": "An anime series blending fantasy and action, following a group of adventurers and sorcerers on a quest through a magical universe.",
+    "publisher": "ADL Films",
+    "release_year": 2003,
+    "tags": [
+      "anime",
+      "fantasy",
+      "action",
+      "adventure",
+      "magic"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3051.JPG"
+  },
+  {
+    "name_en": "Dead or Alive Xtreme 3",
+    "name_cn": "死或生 極限3",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A beach-themed fighting game featuring female characters in swimwear engaging in combat and leisure activities.",
+    "publisher": "KOEI TECMO GAMES CO., LTD.",
+    "release_year": 2018,
+    "tags": [
+      "fighting",
+      "beach",
+      "swimwear",
+      "female characters",
+      "action"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2978.JPG"
+  },
+  {
+    "name_en": "Spider-Man: Miles Morales",
+    "name_cn": "蜘蛛侠：迈尔斯·莫拉莱斯",
+    "category": "game",
+    "platform": "PlayStation 5",
+    "synopsis": "An action-adventure game where players control Miles Morales, a young superhero navigating New York City, using his unique web-slinging and combat abilities.",
+    "publisher": "Insomniac Games",
+    "release_year": 2020,
+    "tags": [
+      "Superhero",
+      "Action",
+      "Adventure",
+      "Third-Person",
+      "Marvel"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2950.JPG"
+  },
+  {
+    "name_en": "Troy",
+    "name_cn": "特洛伊",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "An epic historical war film depicting the legendary Trojan War between the Greeks and the Trojans, featuring grand battles and heroic characters.",
+    "publisher": "20th Century Fox",
+    "release_year": 2004,
+    "tags": [
+      "epic",
+      "war",
+      "historical",
+      "action",
+      "adventure"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2944.JPG"
+  },
+  {
+    "name_en": "NeverDead",
+    "name_cn": "不死之身",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A fast-paced, over-the-top action game featuring a gritty, comic-book style with intense combat and supernatural elements.",
+    "publisher": "Konami Digital Entertainment",
+    "release_year": 2012,
+    "tags": [
+      "Action",
+      "Horror",
+      "Shooter",
+      "Comic Book Style",
+      "Supernatural"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2993.JPG"
+  },
+  {
+    "name_en": "Ghostbusters: The Video Game",
+    "name_cn": "捉鬼敢死队：游戏版",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A third-person action-adventure game where players control the Ghostbusters team as they battle supernatural entities using proton packs and other paranormal weaponry.",
+    "publisher": "Atari",
+    "release_year": 2011,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Horror",
+      "Comedy",
+      "Third-Person Shooter"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2987.JPG"
+  },
+  {
+    "name_en": "Street Fighter X Tekken",
+    "name_cn": "铁拳×快打旋风",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A crossover fighting game combining characters from the Street Fighter and Tekken franchises.",
+    "publisher": "CAPCOM",
+    "release_year": 2012,
+    "tags": [
+      "fighting",
+      "crossover",
+      "arcade",
+      "2D",
+      "PS3"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2986.JPG"
+  },
+  {
+    "name_en": "Street Fighter IV",
+    "name_cn": "街头霸王IV",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A 3D fighting game featuring iconic characters from the Street Fighter series, emphasizing deep combat mechanics and customizable fighting styles.",
+    "publisher": "CAPCOM",
+    "release_year": 2009,
+    "tags": [
+      "fighting",
+      "3D",
+      "arcade",
+      "action",
+      "multiplayer"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2992.JPG"
+  },
+  {
+    "name_en": "Terminator 2: Judgment Day",
+    "name_cn": "终结者2：审判日",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A futuristic action thriller where a powerful cyborg assassin is sent back in time to kill a young boy, but the boy's protector, a former soldier, must stop him.",
+    "publisher": "Artisan Home Entertainment",
+    "release_year": 1991,
+    "tags": [
+      "sci-fi",
+      "action",
+      "thriller",
+      "dystopian",
+      "sequel"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2945.JPG"
+  },
+  {
+    "name_en": "Demon's Souls",
+    "name_cn": "恶魔之魂",
+    "category": "game",
+    "platform": "PlayStation 5",
+    "synopsis": "A dark fantasy action RPG where players battle hordes of demonic creatures in a grim, gothic world.",
+    "publisher": "Bluepoint Games",
+    "release_year": 2020,
+    "tags": [
+      "Action",
+      "RPG",
+      "Dark Fantasy",
+      "Souls-like",
+      "Horror"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2951.JPG"
+  },
+  {
+    "name_en": "Until Dawn",
+    "name_cn": "直到黎明",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A horror-suspense interactive adventure set in a nocturnal mountain forest, challenging players to make critical decisions for survival.",
+    "publisher": "Supermassive Games",
+    "release_year": 2015,
+    "tags": [
+      "horror",
+      "interactive",
+      "survival",
+      "choice-driven"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2979.JPG"
+  },
+  {
+    "name_en": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "name_cn": "加勒比海盗：黑珍珠号的诅咒",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A swashbuckling adventure following a young pirate captain and a cursed ship as they battle for treasure and freedom against a powerful pirate lord.",
+    "publisher": "Walt Disney Pictures",
+    "release_year": 2003,
+    "tags": [
+      "pirates",
+      "adventure",
+      "fantasy",
+      "action",
+      "drama"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3050.JPG"
+  },
+  {
+    "name_en": "Obsession, Letters to David Lynch",
+    "name_cn": "对大卫·林奇的痴迷：信件",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "An experimental film starring Dennis Woodruff, influenced by David Lynch, filled with surreal and psychological elements.",
+    "publisher": "Blockbuster",
+    "release_year": 2005,
+    "tags": [
+      "experimental",
+      "psychological",
+      "david lynch",
+      "art house",
+      "dvd"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3044.JPG"
+  },
+  {
+    "name_en": "Samurai Champloo",
+    "name_cn": "浪客行",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A stylish anime series blending samurai action with modern hip-hop culture, following a wandering swordsman, a thief, and a mysterious girl as they journey across feudal Japan.",
+    "publisher": "Geneon",
+    "release_year": 2004,
+    "tags": [
+      "anime",
+      "samurai",
+      "action",
+      "adventure",
+      "hip-hop",
+      "manga adaptation"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3052.JPG"
+  },
+  {
+    "name_en": "The Matrix Reloaded",
+    "name_cn": "黑客帝国：重装上阵",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A science fiction action film set in a simulated reality where characters battle against an artificial intelligence system.",
+    "publisher": "Warner Bros. Pictures",
+    "release_year": 2003,
+    "tags": [
+      "science fiction",
+      "action",
+      "cyberpunk",
+      "philosophical",
+      "blockbuster"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3046.JPG"
+  },
+  {
+    "name_en": "All the Pretty Horses",
+    "name_cn": "所有美丽生灵",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A Western-style adventure film about a young cowboy and his lover, set against the vast backdrop of the American West.",
+    "publisher": "20th Century Fox",
+    "release_year": 2000,
+    "tags": [
+      "Western",
+      "Romance",
+      "Adventure",
+      "Drama"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2947.JPG"
+  },
+  {
+    "name_en": "Thief",
+    "name_cn": "神偷",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A stealth-action game where players assume the role of a master thief navigating urban environments, using stealth and cunning to avoid detection.",
+    "publisher": "Square Enix",
+    "release_year": 2014,
+    "tags": [
+      "stealth",
+      "action",
+      "thief",
+      "PS3",
+      "Eidos Montreal"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2953.JPG"
+  },
+  {
+    "name_en": "Resident Evil: Operation Raccoon City",
+    "name_cn": "生化危机：代号维罗妮卡",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "一款以生化危机系列为背景的第三人称射击游戏，玩家扮演特种部队成员，在被T病毒肆虐的城市中进行战斗与探索。",
+    "publisher": "CAPCOM",
+    "release_year": 2012,
+    "tags": [
+      "survival horror",
+      "third-person shooter",
+      "zombies",
+      "action",
+      "sci-fi"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2990.JPG"
+  },
+  {
+    "name_en": "Mortal Kombat: Complete Edition",
+    "name_cn": "真人快打：完整版",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A fighting game featuring multiple playable characters and skins, with 3D support.",
+    "publisher": "Warner Bros. Games",
+    "release_year": 2011,
+    "tags": [
+      "fighting",
+      "3D",
+      "exclusive content",
+      "PS3"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2991.JPG"
+  },
+  {
+    "name_en": "Genji",
+    "name_cn": "源氏-神威奏亂",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A samurai action-adventure game featuring intense combat and martial arts mastery.",
+    "publisher": "Sony Computer Entertainment",
+    "release_year": 2009,
+    "tags": [
+      "Action",
+      "Samurai",
+      "Fantasy",
+      "Third-Person",
+      "PS3"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2952.JPG"
+  },
+  {
+    "name_en": "The Fifth Element",
+    "name_cn": "第五元素",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A sci-fi action film set in a futuristic New York City, where a special agent must team up with a mysterious woman to prevent an alien invasion.",
+    "publisher": "Gaumont",
+    "release_year": 1997,
+    "tags": [
+      "sci-fi",
+      "action",
+      "adventure",
+      "futuristic",
+      "thriller"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2946.JPG"
+  },
+  {
+    "name_en": "The Legendary Swordsman",
+    "name_cn": "传说中的剑士",
+    "category": "game",
+    "platform": "Blu-ray",
+    "synopsis": "A samurai-themed action game featuring a wandering swordsman with supernatural abilities, set against a backdrop of vibrant, stylized maple leaves and traditional Japanese aesthetics.",
+    "publisher": "RASPUTIN'S",
+    "release_year": 2003,
+    "tags": [
+      "Samurai",
+      "Action",
+      "Fantasy",
+      "Japanese",
+      "Anime-style"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3047.JPG"
+  },
+  {
+    "name_en": "Kill Bill: Vol. 2",
+    "name_cn": "杀死比尔2",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A stylish, violent revenge thriller where a deadly assassin, The Bride, seeks vengeance against those who betrayed her, blending martial arts with dark humor and pop culture references.",
+    "publisher": "Dimension Films",
+    "release_year": 2004,
+    "tags": [
+      "Action",
+      "Revenge",
+      "Martial Arts",
+      "Quentin Tarantino",
+      "Violent",
+      "Stylish"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3053.JPG"
+  },
+  {
+    "name_en": "The Little Prince",
+    "name_cn": "小王子",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A whimsical animated adaptation of Antoine de Saint-Exupéry's classic tale, following a young prince's journey through space and his encounters with various characters, blending fantasy with philosophical themes.",
+    "publisher": "Widescreen Collection",
+    "release_year": 2001,
+    "tags": [
+      "animated",
+      "fantasy",
+      "philosophical",
+      "children",
+      "classic"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3057.JPG"
+  },
+  {
+    "name_en": "Star Wars Trilogy",
+    "name_cn": "星球大战三部曲",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "An epic space opera that tells the millennia-long battle between the Jedi and the Sith.",
+    "publisher": "Lucasfilm Ltd.",
+    "release_year": 2004,
+    "tags": [
+      "科幻",
+      "冒险",
+      "史诗",
+      "动作",
+      "奇幻"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3043.JPG"
+  },
+  {
+    "name_en": "Van Helsing",
+    "name_cn": "范海辛",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A supernatural action-adventure film where a vampire hunter battles monstrous creatures in a dark, gothic world.",
+    "publisher": "Universal Pictures",
+    "release_year": 2012,
+    "tags": [
+      "supernatural",
+      "action",
+      "horror",
+      "adventure",
+      "vampire"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2942.JPG"
+  },
+  {
+    "name_en": "Rush of Blood",
+    "name_cn": "血色狂奔",
+    "category": "game",
+    "platform": "PlayStation VR",
+    "synopsis": "A first-person horror game set in a dark, eerie environment with a menacing clown-like antagonist.",
+    "publisher": "MScMET School of Design",
+    "release_year": null,
+    "tags": [
+      "Horror",
+      "First-Person",
+      "VR",
+      "Psychological",
+      "Thriller"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2956.JPG"
+  },
+  {
+    "name_en": "Ragnarok Odyssey ACE",
+    "name_cn": "仙境传说：奥德赛ACE",
+    "category": "game",
+    "platform": "PlayStation Vita",
+    "synopsis": "A fantasy RPG featuring characters in an adventurous, action-packed setting with magical elements.",
+    "publisher": "GungHo Online Entertainment",
+    "release_year": 2016,
+    "tags": [
+      "fantasy",
+      "RPG",
+      "action",
+      "anime art",
+      "PS Vita"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2995.JPG"
+  },
+  {
+    "name_en": "Terminator Salvation",
+    "name_cn": "终结者：救赎",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A first-person shooter set in a dystopian future, where players assume the role of a human resistance fighter battling against the machines.",
+    "publisher": "Evolved Games",
+    "release_year": 2012,
+    "tags": [
+      "first-person shooter",
+      "sci-fi",
+      "action",
+      "dystopian",
+      "Terminator"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2994.JPG"
+  },
+  {
+    "name_en": "The Last of Us Remastered",
+    "name_cn": "最后生还者 重制版",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A post-apocalyptic action-adventure game focusing on emotional storytelling and survival.",
+    "publisher": "Naughty Dog",
+    "release_year": 2014,
+    "tags": [
+      "post-apocalyptic",
+      "survival",
+      "emotional",
+      "third-person",
+      "action-adventure"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2980.JPG"
+  },
+  {
+    "name_en": "Alien: Isolation",
+    "name_cn": "异形：隔离",
+    "category": "game",
+    "platform": "Xbox One",
+    "synopsis": "恐怖生存游戏，玩家扮演太空工程师在殖民船上躲避异形的追杀。",
+    "publisher": "Sega",
+    "release_year": 2014,
+    "tags": [
+      "horror",
+      "survival",
+      "sci-fi",
+      "third-person",
+      "action"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2957.JPG"
+  },
+  {
+    "name_en": "30 Days",
+    "name_cn": "30天",
+    "category": "series",
+    "platform": "DVD",
+    "synopsis": "A reality TV series where a person tries living the life of another for 30 days, exploring different lifestyles and challenges.",
+    "publisher": "A&X",
+    "release_year": 2008,
+    "tags": [
+      "Reality TV",
+      "Documentary",
+      "Lifestyle",
+      "Experiment"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2943.JPG"
+  },
+  {
+    "name_en": "Extras",
+    "name_cn": "Extras",
+    "category": "series",
+    "platform": "DVD",
+    "synopsis": "A British sitcom following the misadventures of a group of fictional actors and crew members on a fictional TV show set.",
+    "publisher": "BBC",
+    "release_year": 2008,
+    "tags": [
+      "comedy",
+      "sitcom",
+      "British",
+      "TV show",
+      "mockumentary"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3042.JPG"
+  },
+  {
+    "name_en": "Godzilla",
+    "name_cn": "哥斯拉",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A cinematic portrayal of the iconic monster Godzilla, emphasizing his immense scale and destructive power, presented with a visually striking and atmospheric design.",
+    "publisher": "Sony Pictures",
+    "release_year": 2002,
+    "tags": [
+      "monster",
+      "sci-fi",
+      "action",
+      "horror",
+      "epic"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3056.JPG"
+  },
+  {
+    "name_en": "LEGO The Hobbit",
+    "name_cn": "乐高指环王",
+    "category": "game",
+    "platform": "Xbox One",
+    "synopsis": "A whimsical action-adventure game where players control LEGO versions of characters from J.R.R. Tolkien's 'The Hobbit' on a quest to defeat the dragon Smaug.",
+    "publisher": "WB Games",
+    "release_year": 2014,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "LEGO",
+      "Fantasy"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3040.JPG"
+  },
+  {
+    "name_en": "Immortal",
+    "name_cn": "不朽",
+    "category": "game",
+    "platform": "DVD",
+    "synopsis": "A sci-fi action game set in a futuristic cityscape, featuring intense combat and exploration.",
+    "publisher": "Unknown",
+    "release_year": null,
+    "tags": [
+      "Sci-fi",
+      "Action",
+      "Futuristic",
+      "Urban",
+      "Dystopian"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3054.JPG"
+  },
+  {
+    "name_en": "The Killer",
+    "name_cn": "杀手",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A high-octane action film featuring a fierce hitman engaged in a deadly confrontation, directed by John Woo.",
+    "publisher": "New Line Cinema",
+    "release_year": 1989,
+    "tags": [
+      "Action",
+      "Crime",
+      "John Woo",
+      "Gunplay",
+      "Hong Kong Cinema"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3068.JPG"
+  },
+  {
+    "name_en": "Rush of Blood",
+    "name_cn": "血色狂奔",
+    "category": "game",
+    "platform": "PlayStation VR",
+    "synopsis": "A first-person horror game set in a dark, eerie environment with supernatural elements.",
+    "publisher": "MScMET School of Design",
+    "release_year": null,
+    "tags": [
+      "Horror",
+      "First-Person",
+      "VR",
+      "Psychological"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2955.JPG"
+  },
+  {
+    "name_en": "The Lost World: Jurassic Park",
+    "name_cn": "侏罗纪公园2：迷失世界",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A thrilling adventure set on a remote island where dinosaurs have been cloned and escape, leading to a race against time to survive.",
+    "publisher": "Universal Pictures",
+    "release_year": 1997,
+    "tags": [
+      "Science Fiction",
+      "Action",
+      "Adventure",
+      "Dinosaur",
+      "Thriller"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2941.JPG"
+  },
+  {
+    "name_en": "Battlefield 4",
+    "name_cn": "战地4",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A modern warfare shooter set in a global conflict, featuring intense multiplayer and single-player campaigns with realistic combat and destruction physics.",
+    "publisher": "Electronic Arts",
+    "release_year": 2013,
+    "tags": [
+      "war",
+      "shooter",
+      "multiplayer",
+      "realistic",
+      "Frostbite engine"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2969.JPG"
+  },
+  {
+    "name_en": "NES Remix Pack",
+    "name_cn": "任天堂经典重制合集",
+    "category": "game",
+    "platform": "Wii U",
+    "synopsis": "A pixel-art compilation of remade NES titles, containing mini versions of several legendary games.",
+    "publisher": "Nintendo",
+    "release_year": 2015,
+    "tags": [
+      "Retro",
+      "Compilation",
+      "Pixel Art",
+      "Classic Games"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2996.JPG"
+  },
+  {
+    "name_en": "Mario Party 10",
+    "name_cn": "马里奥派对10",
+    "category": "game",
+    "platform": "Wii U",
+    "synopsis": "A multiplayer party game featuring iconic Nintendo characters competing in various mini-games for fun and prizes.",
+    "publisher": "Nintendo",
+    "release_year": 2016,
+    "tags": [
+      "party",
+      "multiplayer",
+      "Nintendo",
+      "mini-games",
+      "family"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2997.JPG"
+  },
+  {
+    "name_en": "Dragon Quest Builders",
+    "name_cn": "勇者鬥惡龍 創世小玩家",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A building and adventure game where players construct their own world and embark on quests with customizable characters.",
+    "publisher": "Square Enix",
+    "release_year": 2018,
+    "tags": [
+      "RPG",
+      "Simulation",
+      "Building",
+      "Fantasy",
+      "Adventure"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2968.JPG"
+  },
+  {
+    "name_en": "William Shakespeare's Romeo + Juliet",
+    "name_cn": "莎士比亚之罗密欧与朱丽叶",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A modern retelling of Shakespeare's classic tragedy, blending romance, tragedy, and stylized visuals with a gritty, contemporary aesthetic.",
+    "publisher": "The Weinstein Company",
+    "release_year": 2013,
+    "tags": [
+      "Romance",
+      "Tragedy",
+      "Period Drama",
+      "Contemporary",
+      "Director's Vision"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2940.JPG"
+  },
+  {
+    "name_en": "Metal Gear Solid V: Ground Zeroes",
+    "name_cn": "合金装备5：幻痛",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A tactical espionage game set in a gritty, war-torn environment, focusing on stealth and strategy.",
+    "publisher": "Konami",
+    "release_year": 2014,
+    "tags": [
+      "stealth",
+      "tactical",
+      "espionage",
+      "action",
+      "Hideo Kojima"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2954.JPG"
+  },
+  {
+    "name_en": "Sonic the Hedgehog",
+    "name_cn": "刺猬索尼克",
+    "category": "game",
+    "platform": "Sega Genesis",
+    "synopsis": "A fast-paced platformer where players control a blue hedgehog named Sonic as he races through colorful levels, collecting rings and defeating enemies.",
+    "publisher": "Sega",
+    "release_year": 1991,
+    "tags": [
+      "platformer",
+      "speed",
+      "action",
+      "retro",
+      "1990s"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3069.JPG"
+  },
+  {
+    "name_en": "Charlotte Church: Dream a Dream in the Holy Land",
+    "name_cn": "夏洛特·丘奇：在圣地追梦",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A documentary-style film following singer Charlotte Church on a spiritual journey through the Holy Land, blending music, travel, and personal reflection.",
+    "publisher": "Unknown",
+    "release_year": 2005,
+    "tags": [
+      "documentary",
+      "music",
+      "travel",
+      "spiritual",
+      "interview"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3055.JPG"
+  },
+  {
+    "name_en": "The Legend of Sword and Fairy",
+    "name_cn": "剑侠情缘",
+    "category": "game",
+    "platform": "Blu-ray",
+    "synopsis": "A martial arts fantasy game set in a mythical Chinese world, featuring swordplay, romance, and epic adventures.",
+    "publisher": "Softstar Entertainment",
+    "release_year": 2003,
+    "tags": [
+      "Chinese fantasy",
+      "martial arts",
+      "role-playing",
+      "epic adventure"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3041.JPG"
+  },
+  {
+    "name_en": "Mass Effect 3",
+    "name_cn": "质量效应3",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A space opera RPG where players command a fleet of ships and lead a team of soldiers in a galactic conflict against a powerful enemy.",
+    "publisher": "BioWare",
+    "release_year": 2012,
+    "tags": [
+      "sci-fi",
+      "RPG",
+      "space opera",
+      "third-person shooter",
+      "epic"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3026.JPG"
+  },
+  {
+    "name_en": "Guitar Hero Live",
+    "name_cn": "吉他英雄：现场",
+    "category": "game",
+    "platform": "Xbox One",
+    "synopsis": "A music rhythm game where players use a guitar controller to simulate playing rock songs, with live concert-style visuals and gameplay.",
+    "publisher": "Activision",
+    "release_year": 2015,
+    "tags": [
+      "music",
+      "rhythm",
+      "rock",
+      "concert",
+      "simulation"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3032.JPG"
+  },
+  {
+    "name_en": "Tomb Raider: Definitive Edition",
+    "name_cn": "古墓丽影：终极版",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "An action-adventure game where players control Lara Croft, exploring ancient tombs in perilous environments to uncover the secrets of a lost civilization.",
+    "publisher": "Square Enix",
+    "release_year": 2018,
+    "tags": [
+      "action",
+      "adventure",
+      "exploration",
+      "survival",
+      "puzzle"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2933.JPG"
+  },
+  {
+    "name_en": "Quantum Break",
+    "name_cn": "量子裂痕",
+    "category": "game",
+    "platform": "Xbox One",
+    "synopsis": "A time-bending action-adventure game where players manipulate time to solve puzzles and combat enemies.",
+    "publisher": "Microsoft Studios",
+    "release_year": 2016,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Time-Travel",
+      "Sci-Fi",
+      "Xbox One Exclusive"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2927.JPG"
+  },
+  {
+    "name_en": "Halo 3",
+    "name_cn": "光晕3",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A science fiction first-person shooter set in a futuristic universe, featuring intense multiplayer and single-player campaigns with advanced weaponry and alien threats.",
+    "publisher": "Microsoft Game Studios",
+    "release_year": 2007,
+    "tags": [
+      "Science Fiction",
+      "First-Person Shooter",
+      "Multiplayer",
+      "Futuristic",
+      "Action"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2926.JPG"
+  },
+  {
+    "name_en": "Ratchet & Clank: Rift Apart",
+    "name_cn": "瑞奇与叮当：裂隙之间",
+    "category": "game",
+    "platform": "PlayStation 5",
+    "synopsis": "A 3D fighting game featuring iconic characters from the Street Fighter series, emphasizing deep combat mechanics and customizable fighting styles.",
+    "publisher": "Insomniac Games",
+    "release_year": 2023,
+    "tags": [
+      "Sci-Fi",
+      "Action",
+      "Adventure",
+      "Multiplayer",
+      "Platforming",
+      "PS5 Exclusive"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2932.JPG"
+  },
+  {
+    "name_en": "Pokémon X",
+    "name_cn": "宝可梦X",
+    "category": "game",
+    "platform": "Nintendo 3DS",
+    "synopsis": "A role-playing game set in the Alola region, featuring the player as a Pokémon trainer exploring the world, battling, and catching Pokémon.",
+    "publisher": "The Pokémon Company",
+    "release_year": 2016,
+    "tags": [
+      "RPG",
+      "Fantasy",
+      "Adventure",
+      "Pokémon",
+      "Nintendo 3DS"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3033.JPG"
+  },
+  {
+    "name_en": "Grand Theft Auto V",
+    "name_cn": "侠盗猎车手V",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "An open-world action-adventure game set in a fictional city, featuring a cast of protagonists involved in criminal activities, with elements of stealth, combat, and exploration.",
+    "publisher": "Rockstar Games",
+    "release_year": 2015,
+    "tags": [
+      "open world",
+      "action",
+      "adventure",
+      "crime",
+      "stealth",
+      "third-person shooter"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3027.JPG"
+  },
+  {
+    "name_en": "Destiny",
+    "name_cn": "命运",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A sci-fi shooter set in a vast, open-world universe where players explore planets, battle enemies, and engage in cooperative missions.",
+    "publisher": "Activision",
+    "release_year": 2014,
+    "tags": [
+      "sci-fi",
+      "shooter",
+      "co-op",
+      "action",
+      "MMO"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3019.JPG"
+  },
+  {
+    "name_en": "Ultimate Action Triple Pack",
+    "name_cn": "终极动作三部曲",
+    "category": "game",
+    "platform": "PS3",
+    "synopsis": "A compilation of three action-adventure games: Tomb Raider, Sleeping Dogs, and Just Cause 2.",
+    "publisher": "Square Enix",
+    "release_year": 2013,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Compilation",
+      "PS3"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3031.JPG"
+  },
+  {
+    "name_en": "Nekotsu Kyosoku SP: Ranbou Gakkyou",
+    "name_cn": "热血硬派乱斗协奏曲SP",
+    "category": "game",
+    "platform": "Nintendo 3DS",
+    "synopsis": "A chaotic, action-packed fighting game featuring a group of stylized, aggressive characters in a school setting.",
+    "publisher": "ABC System Works",
+    "release_year": 2013,
+    "tags": [
+      "fighting",
+      "anime style",
+      "school setting",
+      "violent",
+      "arcade"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3025.JPG"
+  },
+  {
+    "name_en": "SimCity 4 Deluxe Edition",
+    "name_cn": "模拟城市4 奢华版",
+    "category": "game",
+    "platform": "MACDVD",
+    "synopsis": "A city-building simulation game where players assume the role of a mayor, planning and managing the development of a virtual city.",
+    "publisher": "EA Games",
+    "release_year": 2007,
+    "tags": [
+      "city builder",
+      "simulation",
+      "strategy"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2918.JPG"
+  },
+  {
+    "name_en": "Dance Dance Revolution Universe",
+    "name_cn": "舞力全开：宇宙版",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A rhythm-based dance game where players follow on-screen arrows with dance pads to score points.",
+    "publisher": "Konami",
+    "release_year": 2009,
+    "tags": [
+      "dance",
+      "rhythm",
+      "arcade",
+      "music",
+      "sports"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2924.JPG"
+  },
+  {
+    "name_en": "Front Mission Evolved",
+    "name_cn": "前线任务：进化",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A sci-fi tactical shooter where players assume the role of a soldier executing high-risk missions in a ruined city, combining mech and infantry combat systems.",
+    "publisher": "Square Enix",
+    "release_year": 2012,
+    "tags": [
+      "sci-fi",
+      "tactical",
+      "shooter",
+      "mech",
+      "third-person shooter"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2930.JPG"
+  },
+  {
+    "name_en": "Nioh 2 Remastered Collection",
+    "name_cn": "仁王2 重制版合集",
+    "category": "game",
+    "platform": "PlayStation 5",
+    "synopsis": "A dark fantasy action RPG where players battle demonic foes in a brutal, melee-focused combat system set in a stylized feudal Japan.",
+    "publisher": "Team Ninja",
+    "release_year": 2022,
+    "tags": [
+      "Action",
+      "RPG",
+      "Dark Fantasy",
+      "Souls-like",
+      "Melee Combat"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2931.JPG"
+  },
+  {
+    "name_en": "The Orange Box",
+    "name_cn": "橙色盒子",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A compilation of several games, featuring prominent titles like Half-Life 2: Episode Two and Portal.",
+    "publisher": "Valve",
+    "release_year": 2007,
+    "tags": [
+      "FPS",
+      "解谜",
+      "多人游戏",
+      "合集"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2925.JPG"
+  },
+  {
+    "name_en": "Dark Void",
+    "name_cn": "暗黑虚空",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A sci-fi shooter where players control a pilot in a futuristic fighter jet, engaging in high-speed dogfights and combat through cosmic environments.",
+    "publisher": "Capcom",
+    "release_year": 2012,
+    "tags": [
+      "Sci-fi",
+      "Shooter",
+      "Action",
+      "Space Combat",
+      "Third Person"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2919.JPG"
+  },
+  {
+    "name_en": "Bravely Default",
+    "name_cn": "勇气默示录",
+    "category": "game",
+    "platform": "Nintendo 3DS",
+    "synopsis": "A fantasy role-playing game where players embark on an epic adventure, managing party members and utilizing a unique turn-based battle system with a 'Default' mechanic.",
+    "publisher": "Square Enix",
+    "release_year": 2012,
+    "tags": [
+      "fantasy",
+      "RPG",
+      "turn-based",
+      "Nintendo 3DS"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3024.JPG"
+  },
+  {
+    "name_en": "BioShock 2",
+    "name_cn": "生化奇兵2",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A first-person shooter set in a dystopian underwater city, where players explore a decaying civilization and battle genetically enhanced enemies.",
+    "publisher": "2K Games",
+    "release_year": 2012,
+    "tags": [
+      "first-person shooter",
+      "underwater",
+      "dystopian",
+      "sci-fi",
+      "action",
+      "steampunk"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3030.JPG"
+  },
+  {
+    "name_en": "Battlefield 1",
+    "name_cn": "战地风云1",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A gritty, large-scale World War I shooter set in the trenches and battlefields of Europe, emphasizing historical accuracy and intense combat.",
+    "publisher": "Electronic Arts",
+    "release_year": 2016,
+    "tags": [
+      "war",
+      "first world war",
+      "multiplayer",
+      "first-person shooter",
+      "historical"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3018.JPG"
+  },
+  {
+    "name_en": "Fable Anniversary",
+    "name_cn": "神鬼寓言：周年纪念版",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "An action-RPG where players assume the role of a customizable hero in a fantasy world, making choices that shape their destiny and the world around them.",
+    "publisher": "Microsoft Studios",
+    "release_year": 2011,
+    "tags": [
+      "fantasy",
+      "action",
+      "role-playing",
+      "choice-driven",
+      "open world"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3034.JPG"
+  },
+  {
+    "name_en": "PlayStation VR Worlds",
+    "name_cn": "PlayStation VR世界",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A VR experience featuring a collection of short, surreal, and action-packed mini-games designed for PlayStation VR.",
+    "publisher": "London Studio",
+    "release_year": 2016,
+    "tags": [
+      "VR",
+      "Action",
+      "Adventure",
+      "Surreal",
+      "Mini-games"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3020.JPG"
+  },
+  {
+    "name_en": "Super Mario 3D Land",
+    "name_cn": "超级马力欧3D乐园",
+    "category": "game",
+    "platform": "Nintendo 3DS",
+    "synopsis": "A 3D platformer where Mario explores colorful worlds, collects coins, and defeats enemies using classic power-ups and physics-based gameplay.",
+    "publisher": "Nintendo",
+    "release_year": 2013,
+    "tags": [
+      "platformer",
+      "3D",
+      "Nintendo",
+      "Mario",
+      "action",
+      "adventure"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3008.JPG"
+  },
+  {
+    "name_en": "Bionic Commando",
+    "name_cn": "生化战士",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A third-person action game where players control a soldier with a bionic arm, using it to swing and grapple through environments while battling enemies.",
+    "publisher": "Capcom",
+    "release_year": 2009,
+    "tags": [
+      "action",
+      "third-person",
+      "sci-fi",
+      "platformer",
+      "bionic"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2921.JPG"
+  },
+  {
+    "name_en": "FIFA 14",
+    "name_cn": "FIFA 14",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A soccer simulation game featuring realistic player models and gameplay, developed by EA Sports.",
+    "publisher": "EA Sports",
+    "release_year": 2013,
+    "tags": [
+      "sports",
+      "simulation",
+      "football",
+      "EA Sports"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2935.JPG"
+  },
+  {
+    "name_en": "Lawrence of Arabia",
+    "name_cn": "阿拉伯的劳伦斯",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "史诗级战争冒险片，讲述英国军官劳伦斯在阿拉伯沙漠中领导部落反抗帝国的传奇故事。",
+    "publisher": "Campas",
+    "release_year": 1962,
+    "tags": [
+      "epic",
+      "war",
+      "adventure",
+      "historical",
+      "desert"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2909.JPG"
+  },
+  {
+    "name_en": "Mission: Impossible 2",
+    "name_cn": "碟中谍2",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "An action-packed spy thriller featuring Tom Cruise as a top agent navigating global conspiracies and high-stakes missions.",
+    "publisher": "Paramount Pictures",
+    "release_year": 2000,
+    "tags": [
+      "action",
+      "spy",
+      "thriller",
+      "adventure"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2908.JPG"
+  },
+  {
+    "name_en": "Gundam EXVS Maximum",
+    "name_cn": "机动战士高达EXVS极限爆发",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A fast-paced, 3D mecha combat game featuring iconic Gundam units battling in intense, arena-style matches.",
+    "publisher": "Bandai Namco Entertainment",
+    "release_year": 2023,
+    "tags": [
+      "Gundam",
+      "Mecha",
+      "Battle",
+      "3D",
+      "Arena",
+      "PS4"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2934.JPG"
+  },
+  {
+    "name_en": "Shadows of the Damned",
+    "name_cn": "死神之影",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A dark, stylized action-adventure game blending horror and supernatural elements, featuring a protagonist battling demonic forces in a gritty, surreal world.",
+    "publisher": "Grasshopper Manufacture",
+    "release_year": 2012,
+    "tags": [
+      "Horror",
+      "Action",
+      "Supernatural",
+      "Gore",
+      "Stylized Art"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2920.JPG"
+  },
+  {
+    "name_en": "NBA 2K17",
+    "name_cn": "NBA 2K17",
+    "category": "game",
+    "platform": "Xbox One",
+    "synopsis": "A basketball simulation game featuring realistic player movements and career modes, with a focus on NBA player statistics and gameplay.",
+    "publisher": "2K",
+    "release_year": 2016,
+    "tags": [
+      "sports",
+      "simulation",
+      "basketball",
+      "NBA",
+      "sports game"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3009.JPG"
+  },
+  {
+    "name_en": "Assassin's Creed Syndicate",
+    "name_cn": "刺客信条：枭雄",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A stealth-action game set in Victorian London, where players control twin assassins as they fight against the powerful syndicate.",
+    "publisher": "Ubisoft",
+    "release_year": 2015,
+    "tags": [
+      "stealth",
+      "action",
+      "historical",
+      "open world",
+      "assassin"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3021.JPG"
+  },
+  {
+    "name_en": "Fighters Uncaged",
+    "name_cn": "无拘无束的斗士",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A motion-controlled fighting game where players engage in hand-to-hand combat using the Kinect sensor.",
+    "publisher": "Ubisoft",
+    "release_year": 2012,
+    "tags": [
+      "fighting",
+      "motion-controlled",
+      "Kinect",
+      "sports",
+      "action"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3035.JPG"
+  },
+  {
+    "name_en": "Animal Crossing: New Leaf",
+    "name_cn": "动物森友会：新叶",
+    "category": "game",
+    "platform": "Nintendo 3DS",
+    "synopsis": "A life simulation game where players manage a town and interact with anthropomorphic animals in a peaceful, customizable environment.",
+    "publisher": "Nintendo",
+    "release_year": 2016,
+    "tags": [
+      "Life Simulation",
+      "Town Building",
+      "Casual",
+      "Nintendo",
+      "Animal Characters"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3023.JPG"
+  },
+  {
+    "name_en": "Kinect Adventures!",
+    "name_cn": "Kinect 大冒险!",
+    "category": "game",
+    "platform": "XBOX 360",
+    "synopsis": "A motion-controlled action-adventure game featuring cooperative gameplay where players perform real-life physical challenges to progress through various themed levels.",
+    "publisher": "Microsoft Studios",
+    "release_year": 2011,
+    "tags": [
+      "motion control",
+      "co-op",
+      "adventure",
+      "sports",
+      "family friendly"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3037.JPG"
+  },
+  {
+    "name_en": "Knack",
+    "name_cn": "纳克",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "An action-adventure game where players control a small, sentient creature named Knack who can absorb and combine objects to grow and battle enemies.",
+    "publisher": "Sony Interactive Entertainment",
+    "release_year": 2015,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Platformer",
+      "Collectible",
+      "PS4"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2936.JPG"
+  },
+  {
+    "name_en": "Asura's Wrath",
+    "name_cn": "阿修罗之怒",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A cinematic action-adventure game featuring a wrathful protagonist battling divine and demonic forces in a stylized, mythological setting.",
+    "publisher": "Capcom",
+    "release_year": 2011,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Cinematic",
+      "Mythology",
+      "Boss Battle"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2922.JPG"
+  },
+  {
+    "name_en": "The Darkness",
+    "name_cn": "黑暗",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A supernatural action game where a man gains powers from a demonic entity to fight crime in a gritty urban environment.",
+    "publisher": "2K",
+    "release_year": 2009,
+    "tags": [
+      "Action",
+      "Supernatural",
+      "Horror",
+      "Third-Person Shooter"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2923.JPG"
+  },
+  {
+    "name_en": "Overwatch",
+    "name_cn": "鬥陣特攻",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A team-based multiplayer first-person shooter featuring a diverse roster of heroes with unique abilities.",
+    "publisher": "Blizzard Entertainment",
+    "release_year": 2016,
+    "tags": [
+      "FPS",
+      "MOBA",
+      "Team-Based",
+      "Superhero",
+      "Co-op"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2937.JPG"
+  },
+  {
+    "name_en": "Kinect Sports",
+    "name_cn": "Kinect 運動大會",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A motion-controlled sports game for Xbox 360 that features various athletic competitions, requiring the Kinect sensor for gameplay.",
+    "publisher": "Microsoft Studios",
+    "release_year": 2010,
+    "tags": [
+      "sports",
+      "motion control",
+      "Kinect",
+      "family",
+      "interactive"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3036.JPG"
+  },
+  {
+    "name_en": "Kirby's Return to Dream Land Deluxe",
+    "name_cn": "星之卡比：重返梦幻岛",
+    "category": "game",
+    "platform": "Nintendo 3DS",
+    "synopsis": "A colorful platformer where Kirby explores vibrant worlds, collecting abilities and battling enemies in a whimsical, fast-paced adventure.",
+    "publisher": "Nintendo",
+    "release_year": 2017,
+    "tags": [
+      "platformer",
+      "whimsical",
+      "action",
+      "Nintendo",
+      "3DS"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3022.JPG"
+  },
+  {
+    "name_en": "The Last Guardian",
+    "name_cn": "最后的守护者",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "An action-adventure game where a young boy forms a bond with a giant mythical creature in a mysterious, ancient world.",
+    "publisher": "Sony Interactive Entertainment",
+    "release_year": 2017,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Emotional",
+      "Exploration"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3007.JPG"
+  },
+  {
+    "name_en": "Evolve",
+    "name_cn": "进化",
+    "category": "game",
+    "platform": "PC",
+    "synopsis": "A cooperative 4-player shooter where players control giant creatures and hunt down a single player-controlled monster.",
+    "publisher": "2K",
+    "release_year": 2015,
+    "tags": [
+      "co-op",
+      "shooter",
+      "monster",
+      "4-player",
+      "action"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3013.JPG"
+  },
+  {
+    "name_en": "Army of Two",
+    "name_cn": "双重间谍",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A cooperative shooter where players assume the roles of two agents, executing various missions in a city, using firearms and tactical coordination to achieve objectives.",
+    "publisher": "Electronic Arts",
+    "release_year": 2008,
+    "tags": [
+      "co-op",
+      "shooter",
+      "action",
+      "multiplayer",
+      "third-person shooter"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2912.JPG"
+  },
+  {
+    "name_en": "Silt",
+    "name_cn": "尘埃",
+    "category": "game",
+    "platform": "PlayStation 5",
+    "synopsis": "A psychological thriller set in a dystopian future, blending surreal visuals with intense narrative tension.",
+    "publisher": "Bokeh",
+    "release_year": 2023,
+    "tags": [
+      "Psychological Thriller",
+      "Dystopian",
+      "Surreal",
+      "Action",
+      "Horror"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2913.JPG"
+  },
+  {
+    "name_en": "Final Fantasy XII",
+    "name_cn": "最终幻想XII",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A fantasy RPG set in a richly detailed world, featuring deep storytelling, complex characters, and strategic combat.",
+    "publisher": "Square Enix",
+    "release_year": 2011,
+    "tags": [
+      "fantasy",
+      "RPG",
+      "epic",
+      "story-driven",
+      "turn-based combat"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3012.JPG"
+  },
+  {
+    "name_en": "Okami",
+    "name_cn": "神力控",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A stylized action-adventure game where players control a wolf deity to restore balance to a mythical Japanese-inspired world using brush-based combat and painting mechanics.",
+    "publisher": "Capcom",
+    "release_year": 2012,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Art Style",
+      "PlayStation Move"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3006.JPG"
+  },
+  {
+    "name_en": "Child of Light",
+    "name_cn": "光之子",
+    "category": "game",
+    "platform": "PSVITA",
+    "synopsis": "A fantasy adventure game where players control a young girl with magical powers, exploring a world inspired by classic fairy tales and French art.",
+    "publisher": "Ubisoft",
+    "release_year": 2014,
+    "tags": [
+      "fantasy",
+      "adventure",
+      "2D",
+      "deluxe edition",
+      "PSVITA"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3038.JPG"
+  },
+  {
+    "name_en": "Titanfall",
+    "name_cn": "泰坦陨落",
+    "category": "game",
+    "platform": "PC DVD-ROM",
+    "synopsis": "A fast-paced third-person shooter featuring pilots who battle against giant robotic titans in a futuristic warzone.",
+    "publisher": "Electronic Arts",
+    "release_year": 2014,
+    "tags": [
+      "sci-fi",
+      "mecha",
+      "third-person shooter",
+      "action",
+      "future war"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3010.JPG"
+  },
+  {
+    "name_en": "Super Smash Bros. for Wii U",
+    "name_cn": "任天堂明星大乱斗 for Wii U",
+    "category": "game",
+    "platform": "Wii U",
+    "synopsis": "A crossover fighting game featuring iconic characters from Nintendo franchises battling in various stages.",
+    "publisher": "Nintendo",
+    "release_year": 2014,
+    "tags": [
+      "fighting",
+      "crossover",
+      "action",
+      "Nintendo",
+      "3D"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3004.JPG"
+  },
+  {
+    "name_en": "PlayStation VR Demo Disc",
+    "name_cn": "PlayStation VR 演示光盘",
+    "category": "game",
+    "platform": "PlayStation VR",
+    "synopsis": "A collection of demo experiences showcasing PlayStation VR's immersive capabilities, including racing, combat, and exploration games.",
+    "publisher": "Sony Interactive Entertainment",
+    "release_year": 2016,
+    "tags": [
+      "VR",
+      "Demo",
+      "PlayStation",
+      "Immersive",
+      "Simulation"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2939.JPG"
+  },
+  {
+    "name_en": "Red Faction: Guerrilla",
+    "name_cn": "红色派系：游击战",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "一款以科幻为背景的第一人称射击游戏，玩家扮演一名反抗军战士，在外星殖民地进行游击战，对抗压迫性的统治势力。",
+    "publisher": "Volition Inc.",
+    "release_year": 2009,
+    "tags": [
+      "first-person shooter",
+      "sci-fi",
+      "action",
+      "guerrilla warfare",
+      "Xbox 360"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2911.JPG"
+  },
+  {
+    "name_en": "Outfoxed: Rupert Murdoch's War on Journalism",
+    "name_cn": "Outfoxed：鲁伯特·默多克对新闻界的战争",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A documentary exposing Rupert Murdoch's influence and tactics in the media industry, focusing on his battle with journalism ethics and practices.",
+    "publisher": "BBC",
+    "release_year": 2006,
+    "tags": [
+      "documentary",
+      "media",
+      "journalism",
+      "investigative"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2910.JPG"
+  },
+  {
+    "name_en": "Sleeping Dogs: Definitive Edition",
+    "name_cn": "热血无赖：终极版",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "An open-world action-adventure game set in a stylized version of Hong Kong, blending martial arts, street racing, and gang warfare with a comic book art style.",
+    "publisher": "Square Enix",
+    "release_year": 2019,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Open World",
+      "Martial Arts",
+      "Crime",
+      "Comedy",
+      "Hong Kong",
+      "Comic Book Art"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2938.JPG"
+  },
+  {
+    "name_en": "Mario Kart 8",
+    "name_cn": "马里奥赛车8",
+    "category": "game",
+    "platform": "Wii U",
+    "synopsis": "A high-speed racing game featuring iconic Nintendo characters competing in kart races across various themed tracks.",
+    "publisher": "Nintendo",
+    "release_year": 2014,
+    "tags": [
+      "Racing",
+      "Cartoon",
+      "Comedy",
+      "Family",
+      "Nintendo"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3005.JPG"
+  },
+  {
+    "name_en": "Grand Theft Auto V",
+    "name_cn": "侠盗猎车手V",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "An open-world action-adventure game set in a fictional city, where players control multiple protagonists involved in heists, crime, and exploration.",
+    "publisher": "Rockstar Games",
+    "release_year": 2015,
+    "tags": [
+      "open world",
+      "action",
+      "crime",
+      "adventure",
+      "multiplayer"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3011.JPG"
+  },
+  {
+    "name_en": "NBA 2K8",
+    "name_cn": "職籃大賽",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A basketball simulation game featuring realistic player movements and team competition.",
+    "publisher": "2K Sports",
+    "release_year": 2007,
+    "tags": [
+      "sports",
+      "basketball",
+      "simulation",
+      "NBA"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3039.JPG"
+  },
+  {
+    "name_en": "Mirror's Edge",
+    "name_cn": "镜之边缘",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "An action-adventure game centered around parkour, where players control a skilled athlete navigating urban environments at high speed.",
+    "publisher": "Electronic Arts",
+    "release_year": 2008,
+    "tags": [
+      "parkour",
+      "action",
+      "adventure",
+      "urban",
+      "first-person"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3015.JPG"
+  },
+  {
+    "name_en": "Kinect Sports",
+    "name_cn": "Kinect 运动大会",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A motion-controlled sports game featuring various athletic competitions that require physical movement to play.",
+    "publisher": "Microsoft Studios",
+    "release_year": 2010,
+    "tags": [
+      "sports",
+      "motion control",
+      "Kinect",
+      "family",
+      "interactive"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3001.JPG"
+  },
+  {
+    "name_en": "LittleBigPlanet",
+    "name_cn": "小小大星球",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A creative platformer where players design and share custom levels using a wide array of user-generated content and quirky characters.",
+    "publisher": "Sony Computer Entertainment",
+    "release_year": 2008,
+    "tags": [
+      "platformer",
+      "creative",
+      "user-generated content",
+      "comedy",
+      "indie"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3029.JPG"
+  },
+  {
+    "name_en": "The Godfather II",
+    "name_cn": "教父II",
+    "category": "game",
+    "platform": "XBOX 360",
+    "synopsis": "A crime simulation game based on the iconic film series, focusing on mafia strategy, power-building, and underworld politics.",
+    "publisher": "Electronic Arts",
+    "release_year": 2009,
+    "tags": [
+      "crime",
+      "strategy",
+      "simulation",
+      "gangster",
+      "Xbox 360"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2914.JPG"
+  },
+  {
+    "name_en": "Mobile Suit Gundam: Battlefield Record U.C.0081",
+    "name_cn": "机动战士高达：战场记录U.C.0081",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A real-time strategy game set in the Gundam universe, featuring mech battles and tactical gameplay.",
+    "publisher": "Bandai",
+    "release_year": 2008,
+    "tags": [
+      "Gundam",
+      "Real-time Strategy",
+      "Mech",
+      "PS3"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2928.JPG"
+  },
+  {
+    "name_en": "Demon's Souls",
+    "name_cn": "恶魔之魂",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A dark fantasy action RPG where players battle grotesque monsters in a punishing, open world with high difficulty.",
+    "publisher": "Sony Computer Entertainment",
+    "release_year": 2009,
+    "tags": [
+      "Action",
+      "RPG",
+      "Dark Fantasy",
+      "Hardcore",
+      "Souls-like"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2929.JPG"
+  },
+  {
+    "name_en": "Quantum Theory",
+    "name_cn": "量子理论",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A dark fantasy action RPG where players control a warrior and a mage battling supernatural forces in a gritty, stylized world.",
+    "publisher": "Tecmo",
+    "release_year": 2010,
+    "tags": [
+      "Action",
+      "RPG",
+      "Fantasy",
+      "Dark",
+      "Third Person"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2915.JPG"
+  },
+  {
+    "name_en": "Beyond: Two Souls",
+    "name_cn": "超凡双生",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "An interactive drama where players control a psychically gifted girl and her mysterious partner, exploring their intertwined fates through emotional choices.",
+    "publisher": "Quantic Dream",
+    "release_year": 2013,
+    "tags": [
+      "interactive drama",
+      "psychic powers",
+      "emotional storytelling",
+      "choices matter"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3028.JPG"
+  },
+  {
+    "name_en": "ICO & Shadow of the Colossus Artistic Pack",
+    "name_cn": "ICO与巨神之影艺术合集",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "一款包含两款获奖艺术风格游戏的合集，以高清晰度重制，包含《ICO》与《巨神之影》。",
+    "publisher": "Bluepoint Games",
+    "release_year": 2012,
+    "tags": [
+      "artistic",
+      "remastered",
+      "indie",
+      "adventure",
+      "PS3"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3014.JPG"
+  },
+  {
+    "name_en": "NBA 2K17",
+    "name_cn": "NBA 2K17",
+    "category": "game",
+    "platform": "Xbox One",
+    "synopsis": "A basketball simulation sports game featuring realistic player likenesses and gameplay mechanics.",
+    "publisher": "2K",
+    "release_year": 2016,
+    "tags": [
+      "sports",
+      "simulation",
+      "basketball",
+      "MyCareer",
+      "2K"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3002.JPG"
+  },
+  {
+    "name_en": "Red Dead Redemption: Game of the Year Edition",
+    "name_cn": "荒野大镖客：年度游戏版",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A Western action-adventure game set in a lawless frontier, featuring a rugged outlaw protagonist and a sprawling open world.",
+    "publisher": "Rockstar Games",
+    "release_year": 2015,
+    "tags": [
+      "Western",
+      "Open World",
+      "Action",
+      "Adventure",
+      "Horror Elements"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3016.JPG"
+  },
+  {
+    "name_en": "Civilization",
+    "name_cn": "文明",
+    "category": "game",
+    "platform": "MacDVD",
+    "synopsis": "策略模拟游戏，玩家扮演文明的领导者，从古代发展到现代，建设城市、发展科技、进行外交与战争。",
+    "publisher": "2K Games",
+    "release_year": 2001,
+    "tags": [
+      "strategy",
+      "4X",
+      "historical",
+      "simulation",
+      "mac"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2917.JPG"
+  },
+  {
+    "name_en": "Persona Q: Shadow of the Labyrinth",
+    "name_cn": "女神异闻录Q：迷宫狂想曲",
+    "category": "game",
+    "platform": "Nintendo 3DS",
+    "synopsis": "A crossover JRPG where players control characters from different Persona titles, exploring a mysterious labyrinth and battling monsters with social links and skill-based combat.",
+    "publisher": "Atlus",
+    "release_year": 2013,
+    "tags": [
+      "JRPG",
+      "Crossover",
+      "Labyrinth",
+      "Persona",
+      "Turn-Based Combat",
+      "Nintendo 3DS"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2916.JPG"
+  },
+  {
+    "name_en": "The LEGO Movie Videogame",
+    "name_cn": "乐高大电影：游戏版",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A fast-paced, action-packed platformer based on the animated movie, featuring LEGO characters in a vibrant, blocky world filled with humor and adventure.",
+    "publisher": "Warner Bros. Games",
+    "release_year": 2014,
+    "tags": [
+      "Action",
+      "Platformer",
+      "Comedy",
+      "LEGO",
+      "Family"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3017.JPG"
+  },
+  {
+    "name_en": "Super Mario 3D World",
+    "name_cn": "超级马里奥3D世界",
+    "category": "game",
+    "platform": "Wii U",
+    "synopsis": "A 3D platformer where Mario and his friends explore vibrant worlds, collect coins, and battle enemies in a colorful, physics-driven adventure.",
+    "publisher": "Nintendo",
+    "release_year": 2013,
+    "tags": [
+      "platformer",
+      "3D",
+      "family-friendly",
+      "Nintendo",
+      "cooperative",
+      "action-adventure"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3003.JPG"
+  },
+  {
+    "name_en": "Toy Story 2",
+    "name_cn": "玩具总动员2",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "An animated adventure following Woody and Buzz Lightyear as they embark on a journey to rescue Woody from being sold to a museum, encountering new characters along the way.",
+    "publisher": "Disney·PIXAR",
+    "release_year": 1999,
+    "tags": [
+      "Animation",
+      "Family",
+      "Adventure",
+      "Comedy"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3058.JPG"
+  },
+  {
+    "name_en": "Batman Begins",
+    "name_cn": "蝙蝠侠：侠影之谜",
+    "category": "movie",
+    "platform": "Blu-ray",
+    "synopsis": "A dark, atmospheric superhero origin story set in Gotham City, following Bruce Wayne's transformation into Batman to fight crime and corruption.",
+    "publisher": "Warner Bros. Pictures",
+    "release_year": 2005,
+    "tags": [
+      "superhero",
+      "action",
+      "thriller",
+      "dark",
+      "origin story"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3064.JPG"
+  },
+  {
+    "name_en": "Aero Blasters",
+    "name_cn": "空中突击队",
+    "category": "game",
+    "platform": "Sega Genesis",
+    "synopsis": "A sci-fi shooter game featuring aerial combat with customizable mechs and a team of pilots.",
+    "publisher": "Sega",
+    "release_year": 1992,
+    "tags": [
+      "Sci-fi",
+      "Shooter",
+      "Melee Combat",
+      "1990s",
+      "Sega Genesis"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3070.JPG"
+  },
+  {
+    "name_en": "Kenzan!",
+    "name_cn": "龙如见参-Kenzan!",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A historical action-adventure game set in feudal Japan, focusing on martial arts and political intrigue.",
+    "publisher": "SEGA",
+    "release_year": 2007,
+    "tags": [
+      "historical",
+      "action",
+      "adventure",
+      "samurai",
+      "strategy"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2959.JPG"
+  },
+  {
+    "name_en": "Oggy the Rapper",
+    "name_cn": "奥吉说唱",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A rhythm-based game where players control Oggy, a cartoon character, as he raps and performs in a vibrant, graffiti-style world.",
+    "publisher": "Sony Interactive Entertainment",
+    "release_year": 2018,
+    "tags": [
+      "rhythm",
+      "cartoon",
+      "rap",
+      "graffiti",
+      "PS4"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2971.JPG"
+  },
+  {
+    "name_en": "Persona 5",
+    "name_cn": "女神异闻录5",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A role-playing game set in a modern city where high school students discover a mysterious world beneath the surface of society, fighting supernatural entities known as Shadows.",
+    "publisher": "ATLUS",
+    "release_year": 2017,
+    "tags": [
+      "JRPG",
+      "Metaphysical",
+      "Social Simulation",
+      "Turn-Based Combat"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2965.JPG"
+  },
+  {
+    "name_en": "Diablo III",
+    "name_cn": "暗黑破坏神III",
+    "category": "game",
+    "platform": "Blu-ray",
+    "synopsis": "暗黑风格的多人在线角色扮演游戏，玩家扮演英雄对抗地狱势力。",
+    "publisher": "Blizzard Entertainment",
+    "release_year": 2012,
+    "tags": [
+      "暗黑",
+      "RPG",
+      "多人在线",
+      "动作",
+      "奇幻"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2964.JPG"
+  },
+  {
+    "name_en": "Resident Evil: Biohazard",
+    "name_cn": "生化危机：代号维罗妮卡",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "生存恐怖游戏，玩家在被感染的环境中探索并对抗变异生物。",
+    "publisher": "CAPCOM",
+    "release_year": 2017,
+    "tags": [
+      "survival horror",
+      "third-person",
+      "horror",
+      "action",
+      "PS4"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2970.JPG"
+  },
+  {
+    "name_en": "Wii Sports",
+    "name_cn": "Wii运动",
+    "category": "game",
+    "platform": "Nintendo Wii",
+    "synopsis": "A collection of sports games that use the Wii remote to simulate real-world activities like tennis, golf, bowling, and boxing.",
+    "publisher": "Nintendo",
+    "release_year": 2006,
+    "tags": [
+      "sports",
+      "simulation",
+      "motion controls",
+      "family-friendly",
+      "Nintendo"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2958.JPG"
+  },
+  {
+    "name_en": "Quackshot",
+    "name_cn": "鸭子射击",
+    "category": "game",
+    "platform": "Nintendo Game Boy",
+    "synopsis": "A jungle adventure game starring Donald Duck, where he uses a blaster to fight enemies and navigate through dangerous terrain.",
+    "publisher": "Nintendo",
+    "release_year": 1996,
+    "tags": [
+      "Action",
+      "Platformer",
+      "Cartoon",
+      "Shooter"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3071.JPG"
+  },
+  {
+    "name_en": "Extras",
+    "name_cn": "额外班",
+    "category": "series",
+    "platform": "DVD",
+    "synopsis": "A British sitcom that follows the chaotic lives of actors and crew working on a fictional TV show, blending comedy with behind-the-scenes drama.",
+    "publisher": "BBC",
+    "release_year": 2005,
+    "tags": [
+      "sitcom",
+      "British",
+      "comedy",
+      "TV drama",
+      "behind-the-scenes"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3065.JPG"
+  },
+  {
+    "name_en": "Garden State",
+    "name_cn": "园艺师",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A coming-of-age drama following a young man who returns to his hometown to deal with his mother's illness, reconnecting with his past and finding unexpected love.",
+    "publisher": "Sony Pictures",
+    "release_year": 2004,
+    "tags": [
+      "drama",
+      "romantic",
+      "coming-of-age",
+      "heartfelt"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3059.JPG"
+  },
+  {
+    "name_en": "Manhattan",
+    "name_cn": "曼哈顿",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A romantic comedy-drama set in New York City, following the evolving relationship between two intellectuals.",
+    "publisher": "MGM",
+    "release_year": 1979,
+    "tags": [
+      "Romantic",
+      "Drama",
+      "Comedy",
+      "New York",
+      "Classic"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3067.JPG"
+  },
+  {
+    "name_en": "Wii Sports Resort",
+    "name_cn": "Wii運動 度假勝地",
+    "category": "game",
+    "platform": "Nintendo Wii",
+    "synopsis": "A sports simulation game set in a tropical resort, featuring mini-games like water skiing, golf, and beach volleyball.",
+    "publisher": "Nintendo",
+    "release_year": 2010,
+    "tags": [
+      "sports",
+      "simulation",
+      "family",
+      "Nintendo",
+      "Wii"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2966.JPG"
+  },
+  {
+    "name_en": "Metro Last Light Redux",
+    "name_cn": "地铁：最后的曙光 重制版",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "A post-apocalyptic first-person shooter where players explore, fight, and survive in an underground city.",
+    "publisher": "Deep Silver",
+    "release_year": 2017,
+    "tags": [
+      "post-apocalyptic",
+      "first-person shooter",
+      "survival",
+      "sci-fi"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2972.JPG"
+  },
+  {
+    "name_en": "Kinect Adventures!",
+    "name_cn": "Kinect 大冒险",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A motion-controlled action-adventure game where players engage in various physical challenges and mini-games using the Kinect sensor.",
+    "publisher": "Microsoft Studios",
+    "release_year": 2012,
+    "tags": [
+      "motion-controlled",
+      "sports",
+      "family",
+      "Kinect",
+      "Xbox 360"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2999.JPG"
+  },
+  {
+    "name_en": "Kinect Adventures!",
+    "name_cn": "Kinect 大冒险!",
+    "category": "game",
+    "platform": "Xbox 360",
+    "synopsis": "A motion-controlled action-adventure game where players engage in various physical challenges using the Kinect sensor.",
+    "publisher": "Microsoft Studios",
+    "release_year": 2011,
+    "tags": [
+      "motion-controlled",
+      "action",
+      "adventure",
+      "Kinect",
+      "family-friendly"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2998.JPG"
+  },
+  {
+    "name_en": "Fallout 4",
+    "name_cn": "异塵餘生4",
+    "category": "game",
+    "platform": "PlayStation 4",
+    "synopsis": "Post-apocalyptic open-world RPG set in a ruined America, where players explore, survive, and shape their own story.",
+    "publisher": "Bethesda",
+    "release_year": 2015,
+    "tags": [
+      "post-apocalyptic",
+      "RPG",
+      "survival",
+      "open world",
+      "sci-fi"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2973.JPG"
+  },
+  {
+    "name_en": "Cities: Skylines",
+    "name_cn": "都市：天际线",
+    "category": "game",
+    "platform": "PC DVD",
+    "synopsis": "A city-building simulation game where players design and manage urban environments, balancing infrastructure, economy, and population growth.",
+    "publisher": "Paradox Interactive",
+    "release_year": 2015,
+    "tags": [
+      "city builder",
+      "simulation",
+      "strategy",
+      "management",
+      "urban planning"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2967.JPG"
+  },
+  {
+    "name_en": "Independence Day",
+    "name_cn": "独立日",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A science fiction film about alien invasion and humanity's fight for survival.",
+    "publisher": "Twentieth Century Fox",
+    "release_year": 1996,
+    "tags": [
+      "sci-fi",
+      "action",
+      "alien invasion",
+      "blockbuster"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3066.JPG"
+  },
+  {
+    "name_en": "Civilization IV",
+    "name_cn": "文明4",
+    "category": "game",
+    "platform": "PC DVD-ROM",
+    "synopsis": "A grand strategy game where players guide a civilization from ancient times to modern era, building cities, researching technology, and engaging in diplomacy or warfare.",
+    "publisher": "2K Games",
+    "release_year": 2005,
+    "tags": [
+      "strategy",
+      "4X",
+      "historical",
+      "simulation"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3072.JPG"
+  },
+  {
+    "name_en": "Hero",
+    "name_cn": "英雄",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A wuxia film set during the Warring States period, centered on a martial artist's moral dilemma and his interactions with a powerful general.",
+    "publisher": "Distributed by DVD Video",
+    "release_year": 2003,
+    "tags": [
+      "Wuxia",
+      "Historical",
+      "Action",
+      "Drama",
+      "Chinese Cinema"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3062.JPG"
+  },
+  {
+    "name_en": "Civilization VI: Game of the Year Edition",
+    "name_cn": "文明6：年度游戏版",
+    "category": "game",
+    "platform": "PC DVD-ROM",
+    "synopsis": "A grand strategy game where players build and guide civilizations through the ages, from ancient times to modernity, engaging in diplomacy, warfare, and technological advancement.",
+    "publisher": "2K Games",
+    "release_year": 2016,
+    "tags": [
+      "strategy",
+      "4X",
+      "historical",
+      "simulation",
+      "turn-based"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2963.JPG"
+  },
+  {
+    "name_en": "Rise of the Tomb Raider",
+    "name_cn": "古墓丽影：崛起",
+    "category": "game",
+    "platform": "Xbox One",
+    "synopsis": "An action-adventure game where players control Lara Croft as she climbs, explores, and fights in a frozen, treacherous environment, seeking the secrets of a lost civilization.",
+    "publisher": "Crystal Dynamics",
+    "release_year": 2015,
+    "tags": [
+      "action",
+      "adventure",
+      "exploration",
+      "survival",
+      "first-person"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2977.JPG"
+  },
+  {
+    "name_en": "Call of Duty 3",
+    "name_cn": "使命召唤3",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A World War II-themed first-person shooter with intense combat, historical settings, and squad-based missions.",
+    "publisher": "Activision",
+    "release_year": 2008,
+    "tags": [
+      "First-person shooter",
+      "World War II",
+      "Military",
+      "Action",
+      "Multiplayer"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2988.JPG"
+  },
+  {
+    "name_en": "Altered Species",
+    "name_cn": "异种",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A sci-fi horror game where players explore a dark, alien environment while battling mutated creatures.",
+    "publisher": "A9 Interactive",
+    "release_year": 2008,
+    "tags": [
+      "sci-fi",
+      "horror",
+      "first-person",
+      "survival",
+      "alien"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2989.JPG"
+  },
+  {
+    "name_en": "Dark Souls II",
+    "name_cn": "黑暗靈魂II",
+    "category": "game",
+    "platform": "Xbox One",
+    "synopsis": "A dark fantasy action RPG where players battle grotesque monsters and explore a harsh, unforgiving world.",
+    "publisher": "Bandai Namco Entertainment",
+    "release_year": 2014,
+    "tags": [
+      "Action",
+      "RPG",
+      "Dark Fantasy",
+      "Challenging",
+      "Souls-like"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2976.JPG"
+  },
+  {
+    "name_en": "Sid Meier's Civilization: Beyond Earth",
+    "name_cn": "文明帝國：超越地球",
+    "category": "game",
+    "platform": "PC DVD-ROM",
+    "synopsis": "科幻策略游戏，玩家扮演殖民者在异星建立文明，探索科技与社会发展的平衡。",
+    "publisher": "2K Games",
+    "release_year": 2014,
+    "tags": [
+      "strategy",
+      "sci-fi",
+      "civilization",
+      "space",
+      "simulation"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2962.JPG"
+  },
+  {
+    "name_en": "Jet Lag",
+    "name_cn": "缘来有转机",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A romantic comedy about a couple navigating the chaos of international travel and unexpected connections.",
+    "publisher": "WIDE SCREEN",
+    "release_year": 2000,
+    "tags": [
+      "Romantic Comedy",
+      "Travel",
+      "Light-hearted"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3063.JPG"
+  },
+  {
+    "name_en": "Kingdom Come: Deliverance",
+    "name_cn": "天国：拯救",
+    "category": "game",
+    "platform": "Blu-ray",
+    "synopsis": "A gritty, open-world RPG set in a medieval fantasy world, emphasizing realism and historical accuracy in gameplay and narrative.",
+    "publisher": "Warhorse Studios",
+    "release_year": 2018,
+    "tags": [
+      "RPG",
+      "Medieval",
+      "Historical",
+      "Open World",
+      "Action"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3061.JPG"
+  },
+  {
+    "name_en": "2046",
+    "name_cn": "2046",
+    "category": "movie",
+    "platform": "Blu-ray",
+    "synopsis": "A visually rich, emotionally complex romantic drama set in a nostalgic, fragmented narrative exploring love, memory, and longing.",
+    "publisher": "Wong Kar Wai Films",
+    "release_year": 2004,
+    "tags": [
+      "Romantic",
+      "Drama",
+      "Nostalgia",
+      "Visual Art",
+      "Wong Kar Wai"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3049.JPG"
+  },
+  {
+    "name_en": "Rare Replay",
+    "name_cn": "Rare®精選輯",
+    "category": "game",
+    "platform": "Xbox One",
+    "synopsis": "A compilation of 30 classic Rare games, featuring iconic characters and gameplay from the studio's history.",
+    "publisher": "Rare",
+    "release_year": 2015,
+    "tags": [
+      "Compilation",
+      "Retro",
+      "Platformer",
+      "Action",
+      "Classic Games"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2974.JPG"
+  },
+  {
+    "name_en": "The Beatles Rock Band",
+    "name_cn": "披头士摇滚乐队",
+    "category": "game",
+    "platform": "PlayStation 3",
+    "synopsis": "A music rhythm game where players simulate playing instruments to Beatles songs using guitar, drum, or microphone controllers.",
+    "publisher": "Harmonix Music Systems",
+    "release_year": 2009,
+    "tags": [
+      "music",
+      "rhythm",
+      "rock",
+      "simulation",
+      "Beatles"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2960.JPG"
+  },
+  {
+    "name_en": "West Side Story",
+    "name_cn": "西区故事",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A romantic tragedy set in New York City, blending musical theater with dramatic storytelling.",
+    "publisher": "Metro Goldwyn Mayer",
+    "release_year": 1961,
+    "tags": [
+      "musical",
+      "drama",
+      "romance",
+      "classic",
+      "theater"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2948.JPG"
+  },
+  {
+    "name_en": "Silver Hawk",
+    "name_cn": "飞鹰",
+    "category": "game",
+    "platform": "Blu-ray",
+    "synopsis": "A high-octane action game featuring a futuristic protagonist with cybernetic enhancements, engaging in combat and espionage in a neon-drenched urban environment.",
+    "publisher": "Unknown",
+    "release_year": 2004,
+    "tags": [
+      "Action",
+      "Sci-Fi",
+      "Cyberpunk",
+      "Shooter"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2949.JPG"
+  },
+  {
+    "name_en": "Donkey Kong Country Returns",
+    "name_cn": "大金刚国度回归",
+    "category": "game",
+    "platform": "Wii",
+    "synopsis": "A platform adventure game where Donkey Kong and his friends navigate through jungle-themed levels, collecting coins and defeating enemies.",
+    "publisher": "Nintendo",
+    "release_year": 2010,
+    "tags": [
+      "platform",
+      "adventure",
+      "jungle",
+      "Nintendo",
+      "Donkey Kong"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2961.JPG"
+  },
+  {
+    "name_en": "Watch Dogs",
+    "name_cn": "看门狗",
+    "category": "game",
+    "platform": "Xbox One",
+    "synopsis": "A cyberpunk action-adventure game set in a futuristic city, where players assume the role of a hacker who uses technology to fight against corrupt institutions.",
+    "publisher": "Ubisoft",
+    "release_year": 2014,
+    "tags": [
+      "cyberpunk",
+      "hacking",
+      "action",
+      "thriller",
+      "open world"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_2975.JPG"
+  },
+  {
+    "name_en": "Ambition to Meaning: Finding Your Life's Purpose",
+    "name_cn": "从野心到意义：寻找你的人生目标",
+    "category": "movie",
+    "platform": "DVD",
+    "synopsis": "A documentary-style film exploring personal purpose and fulfillment, featuring interviews with motivational figures.",
+    "publisher": "Michael Goorjian",
+    "release_year": null,
+    "tags": [
+      "documentary",
+      "motivational",
+      "spiritual",
+      "interview"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3048.JPG"
+  },
+  {
+    "name_en": "2046",
+    "name_cn": "2046",
+    "category": "movie",
+    "platform": "Blu-ray",
+    "synopsis": "A visually poetic and emotionally complex romantic drama set in a surreal, dreamlike Hong Kong, exploring themes of memory, longing, and the passage of time.",
+    "publisher": "Wong Kar Wai Productions",
+    "release_year": 2004,
+    "tags": [
+      "Romantic",
+      "Drama",
+      "Visual Poetry",
+      "Cannes Film Festival",
+      "Hong Kong Cinema"
+    ],
+    "source_file": "/Users/rosielyu/VSCODEProject/gamearea/IMG_3060.JPG"
+  }
+]
